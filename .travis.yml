@@ -4,5 +4,5 @@ php:
   - hhvm
   - nightly
 
-script: build.sh
+script: phpunit Test.php 
 
